@@ -12,6 +12,7 @@
 </p>
 
 <br />
+
 ## Tech
 - [React Native](https://reactnative.dev) - Native Development
 - [Expo](https://expo.io) - Deploy and quickly iterate on native Android, iOS, and web apps
