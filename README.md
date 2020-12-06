@@ -11,13 +11,10 @@
 <img src="./assets/example.jpeg">
 </p>
 
-
-
 ## Tech
 - [React Native](https://reactnative.dev) - Native Development
 - [Expo](https://expo.io) - Deploy and quickly iterate on native Android, iOS, and web apps
 
-<br />
 #### 🎲 Executando o aplicativo (mobile)
 ```bash
 # Acesse a pasta do projeto no terminal/cmd
